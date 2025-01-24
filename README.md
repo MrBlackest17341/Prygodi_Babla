@@ -40,5 +40,5 @@
 #3 «Circle_MECHATRONICS_DFKR#3»  
 Dnipro professional college of radio electronics
 
-## Ліцензія
+
 
