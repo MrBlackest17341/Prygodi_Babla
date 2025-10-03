@@ -1,69 +1,69 @@
-# Пригоди Бабла
+# Adventures of Babl
 
-Захоплююча освітня гра, де ви керуєте персонажем на ім'я Бабл, який шукає скарби у лабіринті, відповідаючи на питання з програмування.
+An exciting educational game where you control a character named Babl, who searches for treasures in a labyrinth by answering programming questions.
 
-## Про гру
+## About the Game
 
-У цій грі ви допомагаєте Баблу знайти скарб у загадковому лабіринті. Щоб рухатися лабіринтом, гравцю потрібно правильно відповідати на питання, пов'язані з програмуванням. Кожна правильна відповідь наближає Бабла до омріяного скарбу, а неправильна - ускладнює шлях.
+In this game, you help Babl find the treasure hidden in a mysterious labyrinth. To move forward, the player must correctly answer programming-related questions. Each correct answer brings Babl closer to the desired treasure, while a wrong one makes the path more difficult.
 
-## Користь
+## Benefits
 
-- 💻 Вивчення основ програмування в ігровій формі
-- 🧩 Розвиток логічного мислення
-- 🎮 Поєднання навчання та розваги
+- 💻 Learn the basics of programming in a playful way  
+- 🧩 Develop logical thinking  
+- 🎮 Combine learning and fun  
 
-## Для кого підходить
+## Target Audience
 
-- Початківці у програмуванні
-- Студенти IT-спеціальностей
-- Школярі, які цікавляться програмуванням
-- Усі, хто хоче перевірити свої знання з програмування
+- Beginner programmers  
+- IT students  
+- School pupils interested in programming  
+- Anyone who wants to test their programming knowledge  
 
-## Особливості
+## Features
 
-- Унікальний персонаж Бабл
-- Захоплюючий лабіринт зі скарбом
-- Різноманітні питання з програмування
+- Unique character Babl  
+- Exciting labyrinth with a treasure  
+- Variety of programming questions  
 
-## Керування
+## Controls
 
-- **Клік мишею** - вибір відповіді
-- **R** - рестарт гри
-- **ESC** - вихід з гри
+- **Mouse click** - choose an answer  
+- **R** - restart the game  
+- **ESC** - exit the game  
 
-## Системні вимоги
+## System Requirements
 
-- Windows 7/8/10/11
-- 2 GB RAM
-- 500 MB вільного місця на диску
-- Підключення до інтернету (для генерації питань)
+- Windows 7/8/10/11  
+- 2 GB RAM  
+- 500 MB of free disk space  
+- Internet connection (for question generation)  
 
-## Файли гри
+## Game Files
 
-- `main.py` - основний файл гри
-- `setup.py` - файл для створення виконуваного файлу
-- `requirements.txt` - список залежностей
-- Зображення:
-  - `block.png` - текстура стін
-  - `floor.png` - текстура підлоги
-  - `player.png` - спрайт гравця
-  - `treasure.png` - спрайт скарбу
-  - `heart.png` - спрайт життя
+- `main.py` - main game file  
+- `setup.py` - file for building the executable  
+- `requirements.txt` - list of dependencies  
+- Images:  
+  - `block.png` - wall texture  
+  - `floor.png` - floor texture  
+  - `player.png` - player sprite  
+  - `treasure.png` - treasure sprite  
+  - `heart.png` - life sprite  
 
-## Вирішення проблем
+## Troubleshooting
 
-1. Якщо гра не запускається:
-   - Переконайтеся, що всі файли знаходяться в одній папці
-   - Перевірте наявність підключення до інтернету
-   - Спробуйте запустити від імені адміністратора
+1. If the game does not start:  
+   - Make sure all files are in the same folder  
+   - Check your internet connection  
+   - Try running the game as administrator  
 
-2. Якщо питання не генеруються:
-   - Перевірте підключення до інтернету
-   - Перезапустіть гру
+2. If questions do not generate:  
+   - Check your internet connection  
+   - Restart the game  
 
-## Команда
+## Team  
 
-#3 «Circle_MECHATRONICS_DFKR#3»  
-Dnipro professional college of radio electronics
+**#3 “Circle_MECHATRONICS_DFKR#3”**  
+Dnipro Professional College of Radio Electronics  
 
-
+Participation: **Global Game Jam**  
